@@ -21,3 +21,5 @@ When prompted for your password, enter your password.
 If you've got any questions at all, send us a ModMail in the UIUCTF 2020 Discord.
 
 Good luck and happy hacking!
+
+`uiuctf{read_the_docs_carefully!}`
