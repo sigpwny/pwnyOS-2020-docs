@@ -6,8 +6,7 @@ If you see anything missing, or anything wrong, please send us a ModMail in the 
 UIUCTF 2020's official main page can be found: [here](https://uiuc.tf)
 
 # Connecting
-To get started with your personal pwnyOS VM, first check your inbox for your credentials.
-If you didn't hear from us, send us a ModMail in the UIUCTF Discord.
+To get started with your personal pwnyOS VM, grab your credentials from https://uiuc.tf/pwnyos
 
 Your credentials will be a 4 digit number called a "Port" and a password. These define your unique VM.
 
